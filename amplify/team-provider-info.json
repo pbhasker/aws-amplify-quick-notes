@@ -1,5 +1,5 @@
 {
-    "providers": {
+    "dev": {
         "awscloudformation": {
             "AuthRoleName": "amplify-awsamplifyquicknotes-dev-141532-authRole",
             "UnauthRoleArn": "arn:aws:iam::957616312863:role/amplify-awsamplifyquicknotes-dev-141532-unauthRole",
